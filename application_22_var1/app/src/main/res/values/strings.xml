@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">application_22_var1</string>
+    <string name="info_about_space">Информация о космосе</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter">Войти</string>
+    <string name="enter_account">Вход в аккаунт</string>
+    <string name="result">Результат</string>
+</resources>
